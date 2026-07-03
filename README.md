@@ -10,3 +10,6 @@ CREATE TABLE users (
 
 users list:
 SELECT * FROM users;
+
+connection: 
+projectid:loc:instancename
